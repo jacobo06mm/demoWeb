@@ -1,0 +1,6 @@
+*{margin:0px;padding:0px}
+#cabecera{color:white; background:rgb(0,155,106); height:50px; text-align:center;padding:15px;}
+#navegacion{color:white; background:rgb(233,78,64); height:25px;margin:10px 0px 10px 0px;padding:10px;}
+#contenido{margin:30px; border: 1px solid orange;padding:30px;}
+#pie{background:rgb(14,42,60); height:50px;color:white;padding:10px}
+
